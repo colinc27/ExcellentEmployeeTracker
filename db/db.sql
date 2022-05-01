@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS employee_managment_system;
+CREATE DATABASE employee_managment_system;
+USE employee_managment_system;
